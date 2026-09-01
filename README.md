@@ -5,6 +5,6 @@ here is [pip]([url](https://pypi.org/project/pip/))
 
 ## Developers
 +**Jared Palmer**
-+*Marco Gerosa*
-+none
-+none
+*Marco Gerosa*
+none
+none
